@@ -1,5 +1,3 @@
-23BIS70035 - PARTH KANSAL
-
 # Learning outcomes
 - Learnt State Management in ReactJS
 - Learnt about state and it's types
