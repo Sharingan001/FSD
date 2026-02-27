@@ -30,11 +30,12 @@ Experiment_8/
 
 ## STEPS & SCREENSHOTS
 ### 1. Server Running
-![](Screenshots/0.png)
+![Server Running](Screenshots/0.png)
 Flask development server successfully started.
 
 ### 2. CREATE Student (POST)
 ![Create Student 1](Screenshots/1.png)
+![Create Student 2](Screenshots/2.png)
 
 ### 3. READ ALL Students (GET)
 ![Read All Students](Screenshots/3.png)
