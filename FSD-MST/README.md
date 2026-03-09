@@ -1,5 +1,5 @@
 ## Prerequisites
-- Node.js (version 14 or higher recommended)
+- Node.js
 - npm or yarn
 
 ## Setup
