@@ -38,7 +38,7 @@ Using Marshmallow:
 
 
 ## API URL
-
+🔗 **Live API:** [https://two3bis70056-ishan-07a0.onrender.com/](https://two3bis70056-ishan-07a0.onrender.com/)
 
 
 ## 📸 Screenshots (Ordered)
