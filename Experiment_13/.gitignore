@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+.env
+
+# SQLite Databases (we don't want the local DB on Render)
+*.db
+*.sqlite3
