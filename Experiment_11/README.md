@@ -72,7 +72,7 @@ def get_account_details(user_id):
 
     try:
         response = requests.get(
-            f"https://two3bis70035-experiment-11-order.onrender.com/orders/user/{user_id}",
+            f"https://two3bis70056.onrender.com/orders/user/{user_id}",
             timeout=3
         )
 
@@ -175,7 +175,7 @@ if __name__ == "__main__":
 ## Deployment Links
 
 - Customer Service: https://two3bis70035-experiment-11-customer.onrender.com
-- Order Service: https://two3bis70035-experiment-11-order.onrender.com
+- Order Service: https://two3bis70056.onrender.com
 
 ## Working Flow
 
